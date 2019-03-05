@@ -2,7 +2,7 @@
 public class First {
 
 	public First() {
-		// TODO Auto-generated constructor stub
+		System.out.println("Here new pracctice");
 	}
 
 }
